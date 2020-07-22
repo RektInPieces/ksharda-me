@@ -5,7 +5,7 @@
       {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
     </div>
     <div class="card-body">
-      <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <h2 class="card-title">{{ .Title }}</h2>
       <p class="card-text">{{ .Summary }}</p>
     </div>
     <div class="card-footer">
