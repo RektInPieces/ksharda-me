@@ -82,23 +82,9 @@ url = "projects/"
 weight = 3
 
 [[languages.en.menu.main]]
-name = "| Résumé + Contact"
+name = "Résumé + Contact"
 url = "https://www.linkedin.com/in/kunal-sharda/"
 weight = 5
-
-[languages.pt-br]
-languagename = ""
-title = ""
-
-[languages.pt-br.params]
-author = ""
-info = ""
-description = ""
-keywords = ""
-footercontent = ""
-
-[languages.pt-br.menu]
-main = []
 
 [taxonomies]
 category = "categories"
