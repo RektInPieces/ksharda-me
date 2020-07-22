@@ -81,14 +81,9 @@ name = "Projects"
 url = "projects/"
 weight = 3
 
-[[languages.en.menu.main]]
-name = "Resume + Contact"
-url = "https://www.linkedin.com/in/kunal-sharda/"
-weight = 5
-
 [languages.pt-br]
-languagename = ""
-title = ""
+languagename = "Résumé + Contact"
+title = "https://www.linkedin.com/in/kunal-sharda/"
 
 [languages.pt-br.params]
 author = ""
