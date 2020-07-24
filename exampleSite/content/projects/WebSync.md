@@ -1,0 +1,1 @@
+Fixed tabulator as an open source alternative to Onetab. Highly laggy -- trying to do better with Fullsync

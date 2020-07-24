@@ -1,4 +1,4 @@
-title = "KunalSharda"
+title = "Kunal Sharda"
 baseurl = "https://ksharda.me"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -18,7 +18,7 @@ maxSeeAlsoItems = 5
 rtl = false
 keywords = "blog,developer,personal,entrepreneur,life"
 author = "Kunal Sharda"
-info = "Builder, Student, Dreamer, and Realist"
+info = "Student Builder, Maker, and Realist"
 custom_css = []
 avatarurl = "images/avatar.jpg"
 custom_js = []
