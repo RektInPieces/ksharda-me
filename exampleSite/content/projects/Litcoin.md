@@ -1,0 +1,15 @@
++++
+title = "Litcoin"
+
+description = "Litcoin"
+
+cover_image = "/images/projects/knoweth.png"
+featured_image = "/images/projects/knoweth.png"
+
+summary = "Incentivized and distributed peer review. Was the original idea before Delphus. We  realized that while this is a problem, the changes don't really need a chain to create the systemic fix like is necessary in research collection. Also, there were other solutions that directly addressed research publishing that felt more applicable to the process."
+
+tags = ["Complete?", "Source"]
+
+
+git_repo = "https://github.com/scintillating/litcoin"
++++
