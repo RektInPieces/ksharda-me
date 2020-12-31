@@ -6,10 +6,11 @@ description = "FTC 15092 ABRHS Robotics"
 cover_image = "/images/projects/FTC.jpg"
 featured_image = "/images/projects/FTC.jpg"
 
-summary = "Helped design and write code for First Tech Challenge. Made it to States several times, but unfortunately were not able to make it past there."
+summary = "Helped design and write code for First Tech Challenge. As a small team, we made it to states several times and had a strong showing there."
 
 tags = ["Complete?", "Source"]
 
+website = ""
 git_repo = "https://github.com/acton-robotics-team"
 +++
 

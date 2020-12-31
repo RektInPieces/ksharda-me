@@ -10,5 +10,6 @@ summary = "Cortex enables a decentralized manner of identity management. The web
 
 tags = ["Complete?", "Source"]
 
+website = ""
 git_repo = "https://gitlab.scintillating.us/scintillating/cortex"
 +++
