@@ -10,6 +10,4 @@ summary = "One of the larger Java projects that I created in Java. This project 
 
 tags = ["Complete?"]
 
-website = ""
-git_repo = ""
 +++

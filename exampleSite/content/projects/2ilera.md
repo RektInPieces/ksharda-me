@@ -10,7 +10,7 @@ summary = "Created an app for community building based on certain diseases as we
 
 tags = ["Entrepreneurship", "Complete?", "Source"]
 
-website = ""
+website = "https://www.linkedin.com/company/ileralife/"
 git_repo = "https://github.com/Ilera-Life"
 +++
 

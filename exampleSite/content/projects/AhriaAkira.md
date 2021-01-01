@@ -10,6 +10,5 @@ summary = "From one of my first attended hackathons, we tried to create a voice-
 
 tags = ["Complete?", "Source"]
 
-website = ""    
 git_repo = "https://github.com/stuckathomedev/akira"
 +++

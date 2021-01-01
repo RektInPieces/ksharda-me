@@ -10,6 +10,5 @@ summary = "Silenda was my approach at creating a better card-game system that wo
 
 tags = ["Incomplete", "Source"]
 
-website = ""
 git_repo = "https://github.com/kunal-sharda/Silenda"
 +++ 

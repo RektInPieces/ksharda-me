@@ -10,7 +10,6 @@ summary = "An interactive Amazon Alexa app submitted for the Alexa Skills Challe
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://gitlab.com/stuckathome/echochamber"
 +++
 

@@ -10,7 +10,6 @@ summary = "Helped design and write code for First Tech Challenge. As a small tea
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://github.com/acton-robotics-team"
 +++
 

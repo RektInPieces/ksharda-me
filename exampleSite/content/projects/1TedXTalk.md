@@ -11,5 +11,4 @@ summary = "I was fairly excited about giving this talk as it is about something 
 tags = ["Entrepreneurship", "Complete", "Source"]
 
 website = "https://www.youtube.com/watch?v=Z73_yfdQW64"
-git_repo = ""
 +++

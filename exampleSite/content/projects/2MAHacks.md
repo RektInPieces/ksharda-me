@@ -10,6 +10,5 @@ summary = "MAHacks is one the largest and longest standing hackathons in the New
 
 tags = ["Complete?", "Source"]
 
-website = ""
 website = "https://mahacks.com"
 +++

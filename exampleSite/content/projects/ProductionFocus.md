@@ -10,6 +10,5 @@ summary = "This was submitted at HackExeter 2018 (1st place) and Alexa Life Skli
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://gitlab.com/stuckathome/production-focus"
 +++

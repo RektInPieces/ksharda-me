@@ -10,6 +10,5 @@ summary = "Fixed tabulator as an open source alternative to Onetab. Highly laggy
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://github.com/kunal-sharda/WebSync-deprecated-"
 +++ 

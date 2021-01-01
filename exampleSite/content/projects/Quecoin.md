@@ -10,6 +10,5 @@ summary = "We made QueCoin during MIT Blueprint, where it eventually won 3rd pla
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://gitlab.scintillating.us/scintillating/quecoin"
 +++

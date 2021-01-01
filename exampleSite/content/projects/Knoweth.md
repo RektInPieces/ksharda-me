@@ -10,6 +10,5 @@ summary = "An alternative to Anki that we believed would keep the core ideas/alg
 
 tags = ["Projects", "Incomplete", "Source"]
 
-website = ""
 git_repo = "https://github.com/knoweth/knoweth"
 +++

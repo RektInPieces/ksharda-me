@@ -11,5 +11,4 @@ summary = "Something that I have always wanted to work on with friends is a comi
 tags = ["In Progress", "Source"]
 
 website = "https://www.webtoons.com/en/challenge/the-achilles-project/list?title_no=445074&page=1"
-git_repo = ""
 +++

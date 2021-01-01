@@ -10,6 +10,5 @@ summary = "After watching the rise of Minecraft Speedrunning, we wanted to make 
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://github.com/RektInPieces/MCspeedrunVS/"
 +++

@@ -10,6 +10,5 @@ summary = "Incentivized and distributed peer review. This was an original idea b
 
 tags = ["Complete?", "Source"]
 
-website = ""
 git_repo = "https://github.com/scintillating/litcoin"
 +++

@@ -10,6 +10,5 @@ summary = "An incomplete project in which I tried to aggregate data from several
 
 tags = ["Incomplete", "Source"]
 
-website = ""
 git_repo = "https://github.com/RektInPieces/nile"
 +++
